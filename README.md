@@ -1,2 +1,2 @@
 # This is my second project
-#  Rushikesh Nikam
+#  Rushikesh Dattu Nikam
